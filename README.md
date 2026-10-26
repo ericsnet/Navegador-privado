@@ -1,6 +1,6 @@
 # Navegador privado
 
-Proyecto experimental de interfaz de navegador web desarrollado con **HTML, CSS y JavaScript**. El repositorio conserva varias etapas del proyecto para que puedas explorar cómo ha evolucionado desde una interfaz sencilla hasta una experiencia mucho más completa, con paneles, herramientas y opciones de personalización.
+Explora una interfaz experimental de navegador web con pestañas, marcadores, historial, herramientas y opciones de personalización. El repositorio reúne varias etapas del proyecto, desde una interfaz básica hasta una experiencia más completa. Algunas opciones de privacidad son simulaciones y no garantizan anonimato ni protección real.
 
 > **Aviso sobre privacidad y seguridad:** el nombre del proyecto no garantiza anonimato ni protección real. Varias funciones son simulaciones o dependen de cómo el navegador anfitrión gestione las páginas, las conexiones y el almacenamiento. No lo consideres un sustituto de un navegador con protecciones de privacidad auditadas.
 
